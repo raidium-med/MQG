@@ -4,8 +4,7 @@ Repo for the Medical Question Generation paper, to be published in AACL clinical
 paper: https://arxiv.org/pdf/2405.14654
 
 
-Download the model on huggingface: [[https://huggingface.co/raidium](https://huggingface.co/raidium/MQG)](https://huggingface.co/raidium/MQG)
-
+Download the model on huggingface: https://huggingface.co/raidium/MQG
 
 The ECN-QA dataset is available here: https://huggingface.co/datasets/raidium/ECN-QA
 
